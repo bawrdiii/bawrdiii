@@ -8,7 +8,11 @@
 - 📫 How to reach me **bardiya.shahnazi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,angular,java,jest,mysql,graphql,mongodb,redis,git,linux,vscode,idea,arduino)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,angular,java,jest,mysql,graphql,mongodb,redis,git,linux,vscode,idea,arduino" />
+  </a>
