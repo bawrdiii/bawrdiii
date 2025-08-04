@@ -11,7 +11,7 @@
 </ul>
 
 <h3 align="left">Get in Touch:</h3>
-📫 [Send me an E-mail](bardiya.shahnazi@gmail.com)
+📫 Send me an E-mail: bardiya.shahnazi@gmail.com
 
 or
 
