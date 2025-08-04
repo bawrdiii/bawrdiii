@@ -15,11 +15,11 @@
 
 or
 
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/bardia-shahnazi/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
 <h3 align="left">Languages and Tools:</h3>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,angular,java,jest,mysql,graphql,mongodb,redis,git,linux,vscode,idea,arduino" />
   </a>
