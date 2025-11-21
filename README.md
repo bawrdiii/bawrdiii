@@ -21,5 +21,5 @@ or
   
 <h3 align="left">Languages and Tools:</h3>
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,angular,java,jest,mysql,graphql,mongodb,redis,git,linux,vscode,idea,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,angular,java,jest,mysql,graphql,mongodb,redis,git,linux,vscode,idea,arduino,docker" />
   </a>
